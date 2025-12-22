@@ -1,3 +1,2 @@
-The HR Analytics Dashboard (Power BI) provides a comprehensive view of workforce performance and HR operations by transforming raw employee data into clear, actionable insights. This dashboard centralizes key metrics such as attrition rate, headcount trends, employee performance, hiring insights, training analysis, and departmental KPIs, enabling HR teams to make data-driven decisions.
-
-Key features include interactive slicers, department-level drilldowns, DAX-driven KPIs, and dynamic visualizations that highlight workforce trends, turnover risks, productivity patterns, and employee demographics. The dashboard supports strategic HR planning by identifying patterns in recruitment, training, retention, and performance outcomes.
+About
+The “Analysis on Sales and Profit” project focuses on understanding business performance by analyzing sales and profit data across different product categories, customer segments, and regions. Using mycrosoft excel for data visualization, the project transforms raw transactional data into meaningful insights that help drive strategic business decission
